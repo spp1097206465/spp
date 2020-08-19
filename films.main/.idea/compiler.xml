@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka.server" />
+        <module name="films.common.api" />
+        <module name="films.movie" />
+        <module name="films.movie.api" />
+        <module name="films.order" />
+        <module name="films.order.api" />
+        <module name="films.pay" />
+        <module name="films.user" />
+        <module name="films.user.api" />
+        <module name="oauth.server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.5" />
+      <module name="filmes.order.api" target="1.8" />
+      <module name="films.order.api" target="1.8" />
+      <module name="films.provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

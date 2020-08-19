@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka.server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.common.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.movie.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.order.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.order.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/films.user.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth.server" charset="UTF-8" />
+  </component>
+</project>
